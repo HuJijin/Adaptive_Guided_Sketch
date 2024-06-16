@@ -14,7 +14,7 @@
   </p>
   <h3>
   <p align="center">
-    [<a href="https://openreview.net/pdf?id=1ROAstc9jv"(https://openreview.net/pdf?id=5xadJmgwix)">OpenReview</a>]
+    [<a href="https://openreview.net/forum?id=5xadJmgwix">OpenReview</a>]
   </p>
   </h3>
   
