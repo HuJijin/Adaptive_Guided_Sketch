@@ -186,10 +186,9 @@ This project is developped on the codebase of [guided-diffusion](https://github.
 ## Citation
 If you find this codebase useful for your research, please use the following entry.
 ```BibTeX
-@inproceedings{hu2023scale,
+@inproceedings{huscale,
   title={Scale-Adaptive Diffusion Model for Complex Sketch Synthesis},
   author={Hu, Jijin and Li, Ke and Qi, Yonggang and Song, Yi-Zhe},
-  booktitle={The Twelfth International Conference on Learning Representations},
-  year={2023}
+  booktitle={The Twelfth International Conference on Learning Representations}
 }
 ```
